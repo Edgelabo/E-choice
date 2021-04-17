@@ -1,4 +1,4 @@
-# teamapp
+# E-Choice
 
 ## Project setup
 ```
